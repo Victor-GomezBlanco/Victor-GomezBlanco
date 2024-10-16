@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Victor-GomezBlanco
+- 👋 Hi, I’m Victor-GomezBlanco
 - 👀 I’m an economist specialized in Economic History, Finance and Inequality. 
 - 📫 You can reach me out at victor.gomez(at)cunef.edu
 
